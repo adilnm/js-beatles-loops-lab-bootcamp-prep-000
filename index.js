@@ -21,5 +21,8 @@ function johnLennonFacts(array)
   return newArr
 }
 
-function
+function iLoveTheBeatles()
+{
+  
+}
 
